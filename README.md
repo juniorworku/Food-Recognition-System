@@ -13,14 +13,6 @@ The dataset used is a subset of the popular [Food-101 dataset](https://www.visio
 
 The dataset is split into training and validation sets, with 2250 training samples and 750 validation samples.
 
-### Project Structure
-- `data/`: Contains raw and preprocessed data.
-- `notebooks/`: Jupyter notebooks for exploration, preprocessing, model training, and evaluation.
-- `scripts/`: Python scripts for data loading, preprocessing, and model building.
-- `models/`: Trained models saved during training.
-- `app.py`: Flask or Streamlit app for inference.
-- `tests/`: Unit tests for the project.
-
 ## Requirements
 
 To run the notebook and replicate the results, you need to install the dependencies listed in `requirements.txt`.
